@@ -10,3 +10,5 @@ elif num %7 == 0:
 else:
     print(f"{num}不是2及7的倍數")
 
+print("嗨嗨嗨")
+
